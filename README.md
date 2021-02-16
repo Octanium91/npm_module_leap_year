@@ -8,6 +8,8 @@ node package https://www.npmjs.com/package/@octanium91/leap-year
 
 use:
 
-`import leapYear from '@octanium91/leap-year'
+```
+import leapYear from '@octanium91/leap-year'
 
-console.log("2021 is leap?", leapYear(2021))`
+console.log("2021 is leap?", leapYear(2021))
+```
