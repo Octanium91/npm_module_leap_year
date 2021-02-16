@@ -1,6 +1,6 @@
 {
   "name": "@octanium91/leap-year",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "returns boolean leap year or non-leap year",
   "main": "index.js",
   "scripts": {
@@ -17,12 +17,15 @@
     "get",
     "boolean",
     "true",
-    "folse"
+    "false"
   ],
   "author": "Octanium91",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Octanium91/npm_module_leap_year/issues"
   },
-  "homepage": "https://github.com/Octanium91/npm_module_leap_year#readme"
+  "homepage": "https://github.com/Octanium91/npm_module_leap_year#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
