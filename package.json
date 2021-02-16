@@ -1,0 +1,28 @@
+{
+  "name": "@octanium91/leap-year",
+  "version": "1.0.0",
+  "description": "returns boolean leap year or non-leap year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Octanium91/npm_module_leap_year.git"
+  },
+  "keywords": [
+    "leap",
+    "year",
+    "years",
+    "get",
+    "boolean",
+    "true",
+    "folse"
+  ],
+  "author": "Octanium91",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Octanium91/npm_module_leap_year/issues"
+  },
+  "homepage": "https://github.com/Octanium91/npm_module_leap_year#readme"
+}
